@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockcertsTest", "BlockcertsTest\BlockcertsTest.csproj", "{F5890905-E3CE-43D1-82D8-E1E5D1BDAB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API1", "API1\API1.csproj", "{74DD35E0-3E9B-42C2-9B01-0917513464C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API2", "API2\API2.csproj", "{C342CB73-069A-4A0B-8C1C-73F63217B0AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5890905-E3CE-43D1-82D8-E1E5D1BDAB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5890905-E3CE-43D1-82D8-E1E5D1BDAB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5890905-E3CE-43D1-82D8-E1E5D1BDAB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5890905-E3CE-43D1-82D8-E1E5D1BDAB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74DD35E0-3E9B-42C2-9B01-0917513464C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DD35E0-3E9B-42C2-9B01-0917513464C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DD35E0-3E9B-42C2-9B01-0917513464C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DD35E0-3E9B-42C2-9B01-0917513464C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C342CB73-069A-4A0B-8C1C-73F63217B0AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C342CB73-069A-4A0B-8C1C-73F63217B0AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C342CB73-069A-4A0B-8C1C-73F63217B0AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C342CB73-069A-4A0B-8C1C-73F63217B0AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6893A30-186C-4BCB-A8FC-578540190872}
+	EndGlobalSection
+EndGlobal

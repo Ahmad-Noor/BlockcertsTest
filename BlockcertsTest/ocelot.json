@@ -1,0 +1,29 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sample1",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/GetAPI1",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ] 
+    },
+    {
+      "UpstreamPathTemplate": "/sampl2",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/PostAPI2",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ]
+    }
+  ]
+   
+}
